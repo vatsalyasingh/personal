@@ -22,7 +22,6 @@ def get_numbers():
         "objects": [
             {
                 "active": true,
-                "application": "/v1/Account/MAODUZYTQ0Y2FMYJBLOW/Application/33829815390645281/",
                 "carrier": "Plivo",
                 "country": "United States",
                 "monthly_rental_rate": "0.80000",
@@ -30,7 +29,6 @@ def get_numbers():
             },
             {
                 "active": true,
-                "application": "/v1/Account/MAODUZYTQ0Y2FMYJBLOW/Application/33828651528937946/",
                 "carrier": "Plivo",
                 "city": null,
                 "country": "United States",
@@ -104,7 +102,6 @@ def get_message_details(uuid):
         "message_time": "2019-02-16 11:20:30+05:30",
         "message_type": "sms",
         "message_uuid": "c4d9e524-31ae-11e9-ac27-0651e9348e2e",
-        "resource_uri": "/v1/Account/MAODUZYTQ0Y2FMYJBLOW/Message/c4d9e524-31ae-11e9-ac27-0651e9348e2e/",
         "to_number": "14158408583",
         "total_amount": "0.00000",
         "total_rate": "0.00000",
